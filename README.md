@@ -1,6 +1,6 @@
   #  About Me
 Sou estudante de Ciência da Computação na UniNorte, com foco em desenvolvimento back-end. Tenho experiência acadêmica em Java, SQL, Git e GitHub, e estou sempre aprimorando meus conhecimentos em Spring Boot, APIs REST e boas práticas de desenvolvimento de software.<br><br>Apaixonado por tecnologia, gosto de estar sempre atualizado sobre as últimas tendências e inovações do mundo da computação. Essa paixão me motiva a aprender continuamente, seja por meio de cursos, projetos pessoais ou participação em comunidades de desenvolvimento. 🚀<br><br>
-
+hdhfghfgnvbnvbngfnf
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diegxdd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-clemente-pessoa-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegopessoa160@gmail.com) 
