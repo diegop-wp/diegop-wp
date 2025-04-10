@@ -1,5 +1,5 @@
   #  About Me
-Sou estudante de Ciência da Computação na UniNorte, com foco em desenvolvimento back-end. Tenho experiência acadêmica em Java, SQL, Git e GitHub, e estou sempre aprimorando meus conhecimentos em Spring Boot, APIs REST e boas práticas de desenvolvimento de software.<br><br>Apaixonado por tecnologia, gosto de estar sempre atualizado sobre as últimas tendências e inovações do mundo da computação. Essa paixão me motiva a aprender continuamente, seja por meio de cursos, projetos pessoais ou participação em comunidades de desenvolvimento. 🚀<br><br>
+Sou estudante de Ciência da Computação na UniNorte, com foco em desenvolvimento back-end. Tenho experiência acadêmica em Java, SQL, Git e GitHub, e estou sempre aprimorando meus conhecimentos em Spring Boot, APIs REST e boas práticas de desenvolvimento de software.<br><br>Apaixonado por tecnologia, gosto de estar sempre atualizado sobre as últimas tendências e inovações do mundo da computação. Essa paixão me motiva a aprender continuamente, seja por meio de cursos, projetos pessoais ou participação em comunidades de desenvolvimento. <br><br>
 
 
 ## 🌐 Socials:
