@@ -1,5 +1,13 @@
-  #  About Me
-Sou estudante de Ciência da Computação na UniNorte, com foco em desenvolvimento back-end. Tenho experiência acadêmica em Java, SQL, Git e GitHub, e estou sempre aprimorando meus conhecimentos em Spring Boot, APIs REST e boas práticas de desenvolvimento de software.<br><br>Apaixonado por tecnologia, gosto de estar sempre atualizado sobre as últimas tendências e inovações do mundo da computação. Essa paixão me motiva a aprender continuamente, seja por meio de cursos, projetos pessoais ou participação em comunidades de desenvolvimento  <br><br>
+
+# 👋 Olá, eu sou o Diego Clemente Pessoa
+
+💻 Sou estudante de **Ciência Da Computação** com foco em **Engenharia de Software** e **Back-end**, especializado em **Java** e interessado em construir sistemas eficientes, escaláveis e bem estruturados.
+
+📚 Atualmente, estudo **Java**, aplicando conceitos de **programação orientada a objetos**, **boas práticas de engenharia de software** e **arquitetura de sistemas** para desenvolver aplicações robustas.
+
+🛠️ Meu objetivo é atuar como **Desenvolvedor Back-end** ou **Analista de Sistemas**, contribuindo para projetos reais e aprimorando minhas habilidades em **Java** e desenvolvimento de soluções tecnológicas de qualidade.
+
+Estou em busca de **estágios ou oportunidades de desenvolvimento** para aplicar meus conhecimentos em **Java** e **engenharia de software**, e crescer profissionalmente na área.
 
 
 ## 🌐 Socials:
